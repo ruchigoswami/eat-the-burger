@@ -1,0 +1,42 @@
+html {
+	background-image: url("burger.jpg");
+}
+
+body {
+	height: auto ;
+	width: 100% ; 
+	opacity: 0.7;
+		
+}
+
+h1 {
+	text-align: center;
+}
+
+form.form-inline {
+	margin-bottom: 25px ;
+}
+
+.btn {
+	
+	
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.panel {
+	margin: 25px;
+	margin-top: 70px;
+	
+
+}
+
+#burgers-added {
+	background-color: #DB7093;
+	
+}
+
+#burgers-devoured {
+	background-color: #DB7093;
+
+}
